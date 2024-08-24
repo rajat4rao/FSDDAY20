@@ -23,7 +23,7 @@ function Card({ data }) {
             ))}
           </ul>
           <div className="d-grid">
-            <a href="#" className="btn btn-primary">
+            <a href="https://www.example.com" className="btn btn-primary">
               BUTTON
             </a>
           </div>
